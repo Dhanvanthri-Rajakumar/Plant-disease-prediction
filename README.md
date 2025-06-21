@@ -8,9 +8,9 @@
 
 📌 Features
 
-    1.   🔎 Predicts plant diseases using CNN
+    1.    🔎 Predicts plant diseases using CNN
 
-    2.   📸 Accepts leaf images as input
+    2.    📸 Accepts leaf images as input
 
     3.    📊 Shows prediction confidence
 
@@ -28,7 +28,7 @@
 
     2.    Backend: Python
 
-    3.   ML Framework: TensorFlow / Keras
+    3.    ML Framework: TensorFlow / Keras
 
     4.    Model: Custom CNN trained from scratch
 
