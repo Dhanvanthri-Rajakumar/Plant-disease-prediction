@@ -1,40 +1,39 @@
 🌿 Plant Disease Prediction Using CNN
-A web-based application that helps farmers and agriculturists detect plant diseases from leaf images using a Convolutional Neural Network (CNN) model.
+        A web-based application that helps farmers and agriculturists detect plant diseases from leaf images using a Convolutional Neural Network (CNN) model.
 
 🔍 Overview
-This project uses deep learning to classify plant leaf images into healthy or diseased categories. It aims to assist in early detection of plant diseases, improving crop yield and reducing the use of pesticides.
+        This project uses deep learning to classify plant leaf images into healthy or diseased categories. It aims to assist in early detection of plant diseases, improving crop yield and reducing the use of pesticides.
 
 📌 Features
-🔎 Predicts plant diseases using CNN
+    1.   🔎 Predicts plant diseases using CNN
 
-📸 Accepts leaf images as input
+    2.   📸 Accepts leaf images as input
 
-📊 Shows prediction confidence
+    3.    📊 Shows prediction confidence
 
-🌱 Gives brief disease description and possible treatments
+    4.    🌱 Gives brief disease description and possible treatments
 
-🗣️ Multi-language voice assistant (if implemented)
+    5.    🗣️ Multi-language voice assistant 
 
-🌗 Dark mode toggle (if added)
+    6.    🌗 Dark mode toggle 
 
-🧪 Leaf Health Index Score (if implemented)
+    7.    🧪 Leaf Health Index Score 
 
 🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript / Streamlit (if used)
+    1.    Streamlit
 
-Backend: Python
+    2.    Backend: Python
 
-ML Framework: TensorFlow / Keras
+    3.   ML Framework: TensorFlow / Keras
 
-Model: Custom CNN trained from scratch
+    4.    Model: Custom CNN trained from scratch
 
-Deployment: Streamlit / Flask / Web Hosting platform
+    5.    Deployment: Streamlit / Flask / Web Hosting platform
 
 🧠 Model Training
-Dataset: [Mention dataset used, e.g., PlantVillage]
+    1.    Dataset: PlantVillage
 
-Augmentation: Rotation, flipping, zoom, etc.
+    2.    Augmentation: Rotation, flipping, zoom, etc.
 
-Accuracy Achieved: XX%
+    3.    Accuracy Achieved: 95%
 
-Model Structure: [Briefly describe CNN layers]
